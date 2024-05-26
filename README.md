@@ -10,7 +10,7 @@
 
 You can access the live demo of this TodoApp here:
 <br>
-ToDo: [React ToDo App Demo](https://ritoncharlox-react-todo-app.netlify.app/)
+ToDo: [ToDo App Demo]()
 
 
 ## Operations
