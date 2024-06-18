@@ -10,7 +10,10 @@
 
 You can access the live demo of this TodoApp here:
 <br>
-ToDo: [ToDo App Demo](https://to-dos-list-application.netlify.app/)
+ToDo : [ToDo App Demo](https://to-dos-list-application.netlify.app/)
+<br>
+<br>
+![Demo](ToDo.gif)
 
 
 ## Operations
